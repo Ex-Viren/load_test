@@ -42,7 +42,7 @@ DECLARE @initialIndCtlNum INT = 2000;
 DECLARE @initialCompanionCtlNum INT = 3000;
 DECLARE @timezoneOffset INT = -5; 
 
-WHILE @counter &lt;= 10000
+WHILE @counter <= 10000
 BEGIN
     INSERT INTO Local_PF1103 (iOfficeNum, sOfficeDept, iEffectiveLvl, iIndCtlNum, iCompanionCtlNum, sEmployeeID, sFirstName, sLastName, iDateEffective)
     VALUES (
