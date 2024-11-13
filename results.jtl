@@ -1,0 +1,201 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect
+1731508591463,596,JDBC Request,200,OK,Thread Group 1-8,text,true,,113,0,10,10,null,596,0,583
+1731508592060,0,HTTP Request,Non HTTP response code: java.net.URISyntaxException,Non HTTP response message: Illegal character in path at index 20: https://reqres.in/C:\demo,Thread Group 1-8,text,false,,1176,0,10,10,https://reqres.in/C:\demo,0,0,0
+1731508592060,4,JDBC Request,200,OK,Thread Group 1-8,text,true,,113,0,10,10,null,4,0,1
+1731508592064,0,HTTP Request,Non HTTP response code: java.net.URISyntaxException,Non HTTP response message: Illegal character in path at index 20: https://reqres.in/C:\demo,Thread Group 1-8,text,false,,1176,0,10,10,https://reqres.in/C:\demo,0,0,0
+1731508592065,3,JDBC Request,200,OK,Thread Group 1-8,text,true,,113,0,10,10,null,3,0,0
+1731508592068,0,HTTP Request,Non HTTP response code: java.net.URISyntaxException,Non HTTP response message: Illegal character in path at index 20: https://reqres.in/C:\demo,Thread Group 1-8,text,false,,1176,0,10,10,https://reqres.in/C:\demo,0,0,0
+1731508592068,3,JDBC Request,200,OK,Thread Group 1-8,text,true,,113,0,10,10,null,3,0,0
+1731508592071,0,HTTP Request,Non HTTP response code: java.net.URISyntaxException,Non HTTP response message: Illegal character in path at index 20: https://reqres.in/C:\demo,Thread Group 1-8,text,false,,1176,0,10,10,https://reqres.in/C:\demo,0,0,0
+1731508592071,3,JDBC Request,200,OK,Thread Group 1-8,text,true,,113,0,10,10,null,3,0,0
+1731508592074,0,HTTP Request,Non HTTP response code: java.net.URISyntaxException,Non HTTP response message: Illegal character in path at index 20: https://reqres.in/C:\demo,Thread Group 1-8,text,false,,1176,0,10,10,https://reqres.in/C:\demo,0,0,0
+1731508592074,6,JDBC Request,200,OK,Thread Group 1-8,text,true,,113,0,10,10,null,6,0,0
+1731508592081,0,HTTP Request,Non HTTP response code: java.net.URISyntaxException,Non HTTP response message: Illegal character in path at index 20: https://reqres.in/C:\demo,Thread Group 1-8,text,false,,1176,0,10,10,https://reqres.in/C:\demo,0,0,0
+1731508592081,7,JDBC Request,200,OK,Thread Group 1-8,text,true,,113,0,10,10,null,7,0,0
+1731508592088,0,HTTP Request,Non HTTP response code: java.net.URISyntaxException,Non HTTP response message: Illegal character in path at index 20: https://reqres.in/C:\demo,Thread Group 1-8,text,false,,1176,0,10,10,https://reqres.in/C:\demo,0,0,0
+1731508592088,4,JDBC Request,200,OK,Thread Group 1-8,text,true,,113,0,10,10,null,4,0,0
+1731508592092,0,HTTP Request,Non HTTP response code: java.net.URISyntaxException,Non HTTP response message: Illegal character in path at index 20: https://reqres.in/C:\demo,Thread Group 1-8,text,false,,1176,0,10,10,https://reqres.in/C:\demo,0,0,0
+1731508592092,3,JDBC Request,200,OK,Thread Group 1-8,text,true,,113,0,10,10,null,3,0,0
+1731508592095,0,HTTP Request,Non HTTP response code: java.net.URISyntaxException,Non HTTP response message: Illegal character in path at index 20: https://reqres.in/C:\demo,Thread Group 1-8,text,false,,1176,0,10,10,https://reqres.in/C:\demo,0,0,0
+1731508592095,3,JDBC Request,200,OK,Thread Group 1-8,text,true,,113,0,10,10,null,3,0,0
+1731508592098,0,HTTP Request,Non HTTP response code: java.net.URISyntaxException,Non HTTP response message: Illegal character in path at index 20: https://reqres.in/C:\demo,Thread Group 1-8,text,false,,1176,0,10,10,https://reqres.in/C:\demo,0,0,0
+1731508591163,997,JDBC Request,200,OK,Thread Group 1-5,text,true,,113,0,9,9,null,996,0,883
+1731508592160,0,HTTP Request,Non HTTP response code: java.net.URISyntaxException,Non HTTP response message: Illegal character in path at index 20: https://reqres.in/C:\demo,Thread Group 1-5,text,false,,1176,0,9,9,https://reqres.in/C:\demo,0,0,0
+1731508592160,4,JDBC Request,200,OK,Thread Group 1-5,text,true,,113,0,9,9,null,4,0,1
+1731508592164,0,HTTP Request,Non HTTP response code: java.net.URISyntaxException,Non HTTP response message: Illegal character in path at index 20: https://reqres.in/C:\demo,Thread Group 1-5,text,false,,1176,0,9,9,https://reqres.in/C:\demo,0,0,0
+1731508592164,3,JDBC Request,200,OK,Thread Group 1-5,text,true,,113,0,9,9,null,3,0,0
+1731508592168,0,HTTP Request,Non HTTP response code: java.net.URISyntaxException,Non HTTP response message: Illegal character in path at index 20: https://reqres.in/C:\demo,Thread Group 1-5,text,false,,1176,0,9,9,https://reqres.in/C:\demo,0,0,0
+1731508592168,3,JDBC Request,200,OK,Thread Group 1-5,text,true,,113,0,9,9,null,3,0,0
+1731508592171,0,HTTP Request,Non HTTP response code: java.net.URISyntaxException,Non HTTP response message: Illegal character in path at index 20: https://reqres.in/C:\demo,Thread Group 1-5,text,false,,1176,0,9,9,https://reqres.in/C:\demo,0,0,0
+1731508592171,3,JDBC Request,200,OK,Thread Group 1-5,text,true,,113,0,9,9,null,3,0,0
+1731508592174,0,HTTP Request,Non HTTP response code: java.net.URISyntaxException,Non HTTP response message: Illegal character in path at index 20: https://reqres.in/C:\demo,Thread Group 1-5,text,false,,1176,0,9,9,https://reqres.in/C:\demo,0,0,0
+1731508592174,3,JDBC Request,200,OK,Thread Group 1-5,text,true,,113,0,9,9,null,3,0,0
+1731508592177,0,HTTP Request,Non HTTP response code: java.net.URISyntaxException,Non HTTP response message: Illegal character in path at index 20: https://reqres.in/C:\demo,Thread Group 1-5,text,false,,1176,0,9,9,https://reqres.in/C:\demo,0,0,0
+1731508592178,2,JDBC Request,200,OK,Thread Group 1-5,text,true,,113,0,9,9,null,2,0,0
+1731508592181,0,HTTP Request,Non HTTP response code: java.net.URISyntaxException,Non HTTP response message: Illegal character in path at index 20: https://reqres.in/C:\demo,Thread Group 1-5,text,false,,1176,0,9,9,https://reqres.in/C:\demo,0,0,0
+1731508592181,3,JDBC Request,200,OK,Thread Group 1-5,text,true,,113,0,9,9,null,3,0,0
+1731508592184,0,HTTP Request,Non HTTP response code: java.net.URISyntaxException,Non HTTP response message: Illegal character in path at index 20: https://reqres.in/C:\demo,Thread Group 1-5,text,false,,1176,0,9,9,https://reqres.in/C:\demo,0,0,0
+1731508592184,3,JDBC Request,200,OK,Thread Group 1-5,text,true,,113,0,9,9,null,3,0,0
+1731508592187,0,HTTP Request,Non HTTP response code: java.net.URISyntaxException,Non HTTP response message: Illegal character in path at index 20: https://reqres.in/C:\demo,Thread Group 1-5,text,false,,1176,0,9,9,https://reqres.in/C:\demo,0,0,0
+1731508592188,4,JDBC Request,200,OK,Thread Group 1-5,text,true,,113,0,9,9,null,4,0,0
+1731508592192,0,HTTP Request,Non HTTP response code: java.net.URISyntaxException,Non HTTP response message: Illegal character in path at index 20: https://reqres.in/C:\demo,Thread Group 1-5,text,false,,1176,0,9,9,https://reqres.in/C:\demo,0,0,0
+1731508591071,1197,JDBC Request,200,OK,Thread Group 1-4,text,true,,113,0,8,8,null,1197,0,975
+1731508592268,0,HTTP Request,Non HTTP response code: java.net.URISyntaxException,Non HTTP response message: Illegal character in path at index 20: https://reqres.in/C:\demo,Thread Group 1-4,text,false,,1176,0,8,8,https://reqres.in/C:\demo,0,0,0
+1731508592269,3,JDBC Request,200,OK,Thread Group 1-4,text,true,,113,0,8,8,null,3,0,0
+1731508592272,0,HTTP Request,Non HTTP response code: java.net.URISyntaxException,Non HTTP response message: Illegal character in path at index 20: https://reqres.in/C:\demo,Thread Group 1-4,text,false,,1176,0,8,8,https://reqres.in/C:\demo,0,0,0
+1731508592272,3,JDBC Request,200,OK,Thread Group 1-4,text,true,,113,0,8,8,null,3,0,0
+1731508592275,0,HTTP Request,Non HTTP response code: java.net.URISyntaxException,Non HTTP response message: Illegal character in path at index 20: https://reqres.in/C:\demo,Thread Group 1-4,text,false,,1176,0,8,8,https://reqres.in/C:\demo,0,0,0
+1731508592276,2,JDBC Request,200,OK,Thread Group 1-4,text,true,,113,0,8,8,null,2,0,0
+1731508592278,0,HTTP Request,Non HTTP response code: java.net.URISyntaxException,Non HTTP response message: Illegal character in path at index 20: https://reqres.in/C:\demo,Thread Group 1-4,text,false,,1176,0,8,8,https://reqres.in/C:\demo,0,0,0
+1731508592279,3,JDBC Request,200,OK,Thread Group 1-4,text,true,,113,0,8,8,null,3,0,0
+1731508592282,0,HTTP Request,Non HTTP response code: java.net.URISyntaxException,Non HTTP response message: Illegal character in path at index 20: https://reqres.in/C:\demo,Thread Group 1-4,text,false,,1176,0,8,8,https://reqres.in/C:\demo,0,0,0
+1731508592282,3,JDBC Request,200,OK,Thread Group 1-4,text,true,,113,0,8,8,null,3,0,0
+1731508592285,0,HTTP Request,Non HTTP response code: java.net.URISyntaxException,Non HTTP response message: Illegal character in path at index 20: https://reqres.in/C:\demo,Thread Group 1-4,text,false,,1176,0,8,8,https://reqres.in/C:\demo,0,0,0
+1731508592286,3,JDBC Request,200,OK,Thread Group 1-4,text,true,,113,0,8,8,null,3,0,0
+1731508592289,0,HTTP Request,Non HTTP response code: java.net.URISyntaxException,Non HTTP response message: Illegal character in path at index 20: https://reqres.in/C:\demo,Thread Group 1-4,text,false,,1176,0,8,8,https://reqres.in/C:\demo,0,0,0
+1731508592289,4,JDBC Request,200,OK,Thread Group 1-4,text,true,,113,0,8,8,null,4,0,0
+1731508592293,0,HTTP Request,Non HTTP response code: java.net.URISyntaxException,Non HTTP response message: Illegal character in path at index 20: https://reqres.in/C:\demo,Thread Group 1-4,text,false,,1176,0,8,8,https://reqres.in/C:\demo,0,0,0
+1731508592293,4,JDBC Request,200,OK,Thread Group 1-4,text,true,,113,0,8,8,null,4,0,0
+1731508592297,0,HTTP Request,Non HTTP response code: java.net.URISyntaxException,Non HTTP response message: Illegal character in path at index 20: https://reqres.in/C:\demo,Thread Group 1-4,text,false,,1176,0,8,8,https://reqres.in/C:\demo,0,0,0
+1731508592297,3,JDBC Request,200,OK,Thread Group 1-4,text,true,,113,0,8,8,null,3,0,0
+1731508592300,0,HTTP Request,Non HTTP response code: java.net.URISyntaxException,Non HTTP response message: Illegal character in path at index 20: https://reqres.in/C:\demo,Thread Group 1-4,text,false,,1176,0,8,8,https://reqres.in/C:\demo,0,0,0
+1731508591262,1119,JDBC Request,200,OK,Thread Group 1-6,text,true,,113,0,7,7,null,1119,0,784
+1731508591561,820,JDBC Request,200,OK,Thread Group 1-9,text,true,,113,0,7,7,null,820,0,485
+1731508591361,1020,JDBC Request,200,OK,Thread Group 1-7,text,true,,113,0,7,7,null,1020,0,685
+1731508590865,1516,JDBC Request,200,OK,Thread Group 1-2,text,true,,113,0,7,7,null,1516,0,1181
+1731508590761,1620,JDBC Request,200,OK,Thread Group 1-1,text,true,,113,0,7,7,null,1620,0,1285
+1731508590976,1405,JDBC Request,200,OK,Thread Group 1-3,text,true,,113,0,7,7,null,1405,0,1070
+1731508591665,717,JDBC Request,200,OK,Thread Group 1-10,text,true,,113,0,7,7,null,717,0,381
+1731508592382,0,HTTP Request,Non HTTP response code: java.net.URISyntaxException,Non HTTP response message: Illegal character in path at index 20: https://reqres.in/C:\demo,Thread Group 1-7,text,false,,1176,0,7,7,https://reqres.in/C:\demo,0,0,0
+1731508592382,0,HTTP Request,Non HTTP response code: java.net.URISyntaxException,Non HTTP response message: Illegal character in path at index 20: https://reqres.in/C:\demo,Thread Group 1-1,text,false,,1176,0,7,7,https://reqres.in/C:\demo,0,0,0
+1731508592382,0,HTTP Request,Non HTTP response code: java.net.URISyntaxException,Non HTTP response message: Illegal character in path at index 20: https://reqres.in/C:\demo,Thread Group 1-9,text,false,,1176,0,7,7,https://reqres.in/C:\demo,0,0,0
+1731508592382,0,HTTP Request,Non HTTP response code: java.net.URISyntaxException,Non HTTP response message: Illegal character in path at index 20: https://reqres.in/C:\demo,Thread Group 1-10,text,false,,1176,0,7,7,https://reqres.in/C:\demo,0,0,0
+1731508592382,0,HTTP Request,Non HTTP response code: java.net.URISyntaxException,Non HTTP response message: Illegal character in path at index 20: https://reqres.in/C:\demo,Thread Group 1-6,text,false,,1176,0,7,7,https://reqres.in/C:\demo,0,0,0
+1731508592382,0,HTTP Request,Non HTTP response code: java.net.URISyntaxException,Non HTTP response message: Illegal character in path at index 20: https://reqres.in/C:\demo,Thread Group 1-2,text,false,,1176,0,7,7,https://reqres.in/C:\demo,0,0,0
+1731508592383,0,HTTP Request,Non HTTP response code: java.net.URISyntaxException,Non HTTP response message: Illegal character in path at index 20: https://reqres.in/C:\demo,Thread Group 1-3,text,false,,1176,0,7,7,https://reqres.in/C:\demo,0,0,0
+1731508592383,4,JDBC Request,200,OK,Thread Group 1-3,text,true,,113,0,7,7,null,4,0,0
+1731508592387,0,HTTP Request,Non HTTP response code: java.net.URISyntaxException,Non HTTP response message: Illegal character in path at index 20: https://reqres.in/C:\demo,Thread Group 1-3,text,false,,1176,0,7,7,https://reqres.in/C:\demo,0,0,0
+1731508592387,4,JDBC Request,200,OK,Thread Group 1-3,text,true,,113,0,7,7,null,4,0,0
+1731508592391,0,HTTP Request,Non HTTP response code: java.net.URISyntaxException,Non HTTP response message: Illegal character in path at index 20: https://reqres.in/C:\demo,Thread Group 1-3,text,false,,1176,0,7,7,https://reqres.in/C:\demo,0,0,0
+1731508592391,4,JDBC Request,200,OK,Thread Group 1-3,text,true,,113,0,7,7,null,4,0,0
+1731508592395,0,HTTP Request,Non HTTP response code: java.net.URISyntaxException,Non HTTP response message: Illegal character in path at index 20: https://reqres.in/C:\demo,Thread Group 1-3,text,false,,1176,0,7,7,https://reqres.in/C:\demo,0,0,0
+1731508592395,3,JDBC Request,200,OK,Thread Group 1-3,text,true,,113,0,7,7,null,3,0,0
+1731508592398,0,HTTP Request,Non HTTP response code: java.net.URISyntaxException,Non HTTP response message: Illegal character in path at index 20: https://reqres.in/C:\demo,Thread Group 1-3,text,false,,1176,0,7,7,https://reqres.in/C:\demo,0,0,0
+1731508592398,3,JDBC Request,200,OK,Thread Group 1-3,text,true,,113,0,7,7,null,3,0,0
+1731508592401,0,HTTP Request,Non HTTP response code: java.net.URISyntaxException,Non HTTP response message: Illegal character in path at index 20: https://reqres.in/C:\demo,Thread Group 1-3,text,false,,1176,0,7,7,https://reqres.in/C:\demo,0,0,0
+1731508592401,3,JDBC Request,200,OK,Thread Group 1-3,text,true,,113,0,7,7,null,3,0,0
+1731508592404,0,HTTP Request,Non HTTP response code: java.net.URISyntaxException,Non HTTP response message: Illegal character in path at index 20: https://reqres.in/C:\demo,Thread Group 1-3,text,false,,1176,0,7,7,https://reqres.in/C:\demo,0,0,0
+1731508592404,3,JDBC Request,200,OK,Thread Group 1-3,text,true,,113,0,7,7,null,3,0,0
+1731508592408,0,HTTP Request,Non HTTP response code: java.net.URISyntaxException,Non HTTP response message: Illegal character in path at index 20: https://reqres.in/C:\demo,Thread Group 1-3,text,false,,1176,0,7,7,https://reqres.in/C:\demo,0,0,0
+1731508592408,3,JDBC Request,200,OK,Thread Group 1-3,text,true,,113,0,7,7,null,3,0,0
+1731508592411,0,HTTP Request,Non HTTP response code: java.net.URISyntaxException,Non HTTP response message: Illegal character in path at index 20: https://reqres.in/C:\demo,Thread Group 1-3,text,false,,1176,0,7,7,https://reqres.in/C:\demo,0,0,0
+1731508592412,2,JDBC Request,200,OK,Thread Group 1-3,text,true,,113,0,7,7,null,2,0,0
+1731508592414,0,HTTP Request,Non HTTP response code: java.net.URISyntaxException,Non HTTP response message: Illegal character in path at index 20: https://reqres.in/C:\demo,Thread Group 1-3,text,false,,1176,0,7,7,https://reqres.in/C:\demo,0,0,0
+1731508592383,104,JDBC Request,200,OK,Thread Group 1-2,text,true,,113,0,6,6,null,104,0,0
+1731508592487,0,HTTP Request,Non HTTP response code: java.net.URISyntaxException,Non HTTP response message: Illegal character in path at index 20: https://reqres.in/C:\demo,Thread Group 1-2,text,false,,1176,0,6,6,https://reqres.in/C:\demo,0,0,0
+1731508592488,3,JDBC Request,200,OK,Thread Group 1-2,text,true,,113,0,6,6,null,2,0,0
+1731508592491,0,HTTP Request,Non HTTP response code: java.net.URISyntaxException,Non HTTP response message: Illegal character in path at index 20: https://reqres.in/C:\demo,Thread Group 1-2,text,false,,1176,0,6,6,https://reqres.in/C:\demo,0,0,0
+1731508592491,3,JDBC Request,200,OK,Thread Group 1-2,text,true,,113,0,6,6,null,3,0,0
+1731508592494,0,HTTP Request,Non HTTP response code: java.net.URISyntaxException,Non HTTP response message: Illegal character in path at index 20: https://reqres.in/C:\demo,Thread Group 1-2,text,false,,1176,0,6,6,https://reqres.in/C:\demo,0,0,0
+1731508592494,3,JDBC Request,200,OK,Thread Group 1-2,text,true,,113,0,6,6,null,3,0,0
+1731508592497,0,HTTP Request,Non HTTP response code: java.net.URISyntaxException,Non HTTP response message: Illegal character in path at index 20: https://reqres.in/C:\demo,Thread Group 1-2,text,false,,1176,0,6,6,https://reqres.in/C:\demo,0,0,0
+1731508592498,3,JDBC Request,200,OK,Thread Group 1-2,text,true,,113,0,6,6,null,3,0,0
+1731508592501,0,HTTP Request,Non HTTP response code: java.net.URISyntaxException,Non HTTP response message: Illegal character in path at index 20: https://reqres.in/C:\demo,Thread Group 1-2,text,false,,1176,0,6,6,https://reqres.in/C:\demo,0,0,0
+1731508592501,3,JDBC Request,200,OK,Thread Group 1-2,text,true,,113,0,6,6,null,3,0,0
+1731508592504,0,HTTP Request,Non HTTP response code: java.net.URISyntaxException,Non HTTP response message: Illegal character in path at index 20: https://reqres.in/C:\demo,Thread Group 1-2,text,false,,1176,0,6,6,https://reqres.in/C:\demo,0,0,0
+1731508592504,3,JDBC Request,200,OK,Thread Group 1-2,text,true,,113,0,6,6,null,3,0,0
+1731508592508,0,HTTP Request,Non HTTP response code: java.net.URISyntaxException,Non HTTP response message: Illegal character in path at index 20: https://reqres.in/C:\demo,Thread Group 1-2,text,false,,1176,0,6,6,https://reqres.in/C:\demo,0,0,0
+1731508592508,3,JDBC Request,200,OK,Thread Group 1-2,text,true,,113,0,6,6,null,3,0,0
+1731508592511,0,HTTP Request,Non HTTP response code: java.net.URISyntaxException,Non HTTP response message: Illegal character in path at index 20: https://reqres.in/C:\demo,Thread Group 1-2,text,false,,1176,0,6,6,https://reqres.in/C:\demo,0,0,0
+1731508592511,3,JDBC Request,200,OK,Thread Group 1-2,text,true,,113,0,6,6,null,3,0,0
+1731508592520,0,HTTP Request,Non HTTP response code: java.net.URISyntaxException,Non HTTP response message: Illegal character in path at index 20: https://reqres.in/C:\demo,Thread Group 1-2,text,false,,1176,0,6,6,https://reqres.in/C:\demo,0,0,0
+1731508592382,213,JDBC Request,200,OK,Thread Group 1-1,text,true,,113,0,5,5,null,213,0,0
+1731508592382,213,JDBC Request,200,OK,Thread Group 1-7,text,true,,113,0,5,5,null,213,0,0
+1731508592596,0,HTTP Request,Non HTTP response code: java.net.URISyntaxException,Non HTTP response message: Illegal character in path at index 20: https://reqres.in/C:\demo,Thread Group 1-1,text,false,,1176,0,5,5,https://reqres.in/C:\demo,0,0,0
+1731508592596,0,HTTP Request,Non HTTP response code: java.net.URISyntaxException,Non HTTP response message: Illegal character in path at index 20: https://reqres.in/C:\demo,Thread Group 1-7,text,false,,1176,0,5,5,https://reqres.in/C:\demo,0,0,0
+1731508592596,4,JDBC Request,200,OK,Thread Group 1-1,text,true,,113,0,5,5,null,3,0,0
+1731508592600,0,HTTP Request,Non HTTP response code: java.net.URISyntaxException,Non HTTP response message: Illegal character in path at index 20: https://reqres.in/C:\demo,Thread Group 1-1,text,false,,1176,0,5,5,https://reqres.in/C:\demo,0,0,0
+1731508592600,3,JDBC Request,200,OK,Thread Group 1-1,text,true,,113,0,5,5,null,3,0,0
+1731508592603,0,HTTP Request,Non HTTP response code: java.net.URISyntaxException,Non HTTP response message: Illegal character in path at index 20: https://reqres.in/C:\demo,Thread Group 1-1,text,false,,1176,0,5,5,https://reqres.in/C:\demo,0,0,0
+1731508592603,3,JDBC Request,200,OK,Thread Group 1-1,text,true,,113,0,5,5,null,3,0,0
+1731508592606,0,HTTP Request,Non HTTP response code: java.net.URISyntaxException,Non HTTP response message: Illegal character in path at index 20: https://reqres.in/C:\demo,Thread Group 1-1,text,false,,1176,0,5,5,https://reqres.in/C:\demo,0,0,0
+1731508592606,3,JDBC Request,200,OK,Thread Group 1-1,text,true,,113,0,5,5,null,3,0,0
+1731508592609,0,HTTP Request,Non HTTP response code: java.net.URISyntaxException,Non HTTP response message: Illegal character in path at index 20: https://reqres.in/C:\demo,Thread Group 1-1,text,false,,1176,0,5,5,https://reqres.in/C:\demo,0,0,0
+1731508592609,3,JDBC Request,200,OK,Thread Group 1-1,text,true,,113,0,5,5,null,3,0,0
+1731508592612,0,HTTP Request,Non HTTP response code: java.net.URISyntaxException,Non HTTP response message: Illegal character in path at index 20: https://reqres.in/C:\demo,Thread Group 1-1,text,false,,1176,0,5,5,https://reqres.in/C:\demo,0,0,0
+1731508592612,2,JDBC Request,200,OK,Thread Group 1-1,text,true,,113,0,5,5,null,2,0,0
+1731508592615,0,HTTP Request,Non HTTP response code: java.net.URISyntaxException,Non HTTP response message: Illegal character in path at index 20: https://reqres.in/C:\demo,Thread Group 1-1,text,false,,1176,0,5,5,https://reqres.in/C:\demo,0,0,0
+1731508592615,3,JDBC Request,200,OK,Thread Group 1-1,text,true,,113,0,5,5,null,3,0,0
+1731508592618,0,HTTP Request,Non HTTP response code: java.net.URISyntaxException,Non HTTP response message: Illegal character in path at index 20: https://reqres.in/C:\demo,Thread Group 1-1,text,false,,1176,0,5,5,https://reqres.in/C:\demo,0,0,0
+1731508592618,2,JDBC Request,200,OK,Thread Group 1-1,text,true,,113,0,5,5,null,2,0,0
+1731508592621,0,HTTP Request,Non HTTP response code: java.net.URISyntaxException,Non HTTP response message: Illegal character in path at index 20: https://reqres.in/C:\demo,Thread Group 1-1,text,false,,1176,0,5,5,https://reqres.in/C:\demo,0,0,0
+1731508592596,108,JDBC Request,200,OK,Thread Group 1-7,text,true,,113,0,4,4,null,108,0,0
+1731508592383,321,JDBC Request,200,OK,Thread Group 1-9,text,true,,113,0,4,4,null,321,0,0
+1731508592704,0,HTTP Request,Non HTTP response code: java.net.URISyntaxException,Non HTTP response message: Illegal character in path at index 20: https://reqres.in/C:\demo,Thread Group 1-7,text,false,,1176,0,4,4,https://reqres.in/C:\demo,0,0,0
+1731508592704,0,HTTP Request,Non HTTP response code: java.net.URISyntaxException,Non HTTP response message: Illegal character in path at index 20: https://reqres.in/C:\demo,Thread Group 1-9,text,false,,1176,0,4,4,https://reqres.in/C:\demo,0,0,0
+1731508592705,3,JDBC Request,200,OK,Thread Group 1-7,text,true,,113,0,4,4,null,3,0,0
+1731508592708,0,HTTP Request,Non HTTP response code: java.net.URISyntaxException,Non HTTP response message: Illegal character in path at index 20: https://reqres.in/C:\demo,Thread Group 1-7,text,false,,1176,0,4,4,https://reqres.in/C:\demo,0,0,0
+1731508592705,6,JDBC Request,200,OK,Thread Group 1-9,text,true,,113,0,4,4,null,6,0,0
+1731508592712,0,HTTP Request,Non HTTP response code: java.net.URISyntaxException,Non HTTP response message: Illegal character in path at index 20: https://reqres.in/C:\demo,Thread Group 1-9,text,false,,1176,0,4,4,https://reqres.in/C:\demo,0,0,0
+1731508592709,6,JDBC Request,200,OK,Thread Group 1-7,text,true,,113,0,4,4,null,6,0,0
+1731508592715,0,HTTP Request,Non HTTP response code: java.net.URISyntaxException,Non HTTP response message: Illegal character in path at index 20: https://reqres.in/C:\demo,Thread Group 1-7,text,false,,1176,0,4,4,https://reqres.in/C:\demo,0,0,0
+1731508592712,7,JDBC Request,200,OK,Thread Group 1-9,text,true,,113,0,4,4,null,7,0,0
+1731508592720,0,HTTP Request,Non HTTP response code: java.net.URISyntaxException,Non HTTP response message: Illegal character in path at index 20: https://reqres.in/C:\demo,Thread Group 1-9,text,false,,1176,0,4,4,https://reqres.in/C:\demo,0,0,0
+1731508592383,337,JDBC Request,200,OK,Thread Group 1-10,text,true,,113,0,4,4,null,337,0,0
+1731508592383,337,JDBC Request,200,OK,Thread Group 1-6,text,true,,113,0,4,4,null,337,0,0
+1731508592720,0,HTTP Request,Non HTTP response code: java.net.URISyntaxException,Non HTTP response message: Illegal character in path at index 20: https://reqres.in/C:\demo,Thread Group 1-10,text,false,,1176,0,4,4,https://reqres.in/C:\demo,0,0,0
+1731508592720,0,HTTP Request,Non HTTP response code: java.net.URISyntaxException,Non HTTP response message: Illegal character in path at index 20: https://reqres.in/C:\demo,Thread Group 1-6,text,false,,1176,0,4,4,https://reqres.in/C:\demo,0,0,0
+1731508592720,3,JDBC Request,200,OK,Thread Group 1-9,text,true,,113,0,4,4,null,3,0,0
+1731508592724,0,HTTP Request,Non HTTP response code: java.net.URISyntaxException,Non HTTP response message: Illegal character in path at index 20: https://reqres.in/C:\demo,Thread Group 1-9,text,false,,1176,0,4,4,https://reqres.in/C:\demo,0,0,0
+1731508592724,3,JDBC Request,200,OK,Thread Group 1-9,text,true,,113,0,4,4,null,2,0,0
+1731508592727,0,HTTP Request,Non HTTP response code: java.net.URISyntaxException,Non HTTP response message: Illegal character in path at index 20: https://reqres.in/C:\demo,Thread Group 1-9,text,false,,1176,0,4,4,https://reqres.in/C:\demo,0,0,0
+1731508592727,3,JDBC Request,200,OK,Thread Group 1-9,text,true,,113,0,4,4,null,3,0,0
+1731508592730,0,HTTP Request,Non HTTP response code: java.net.URISyntaxException,Non HTTP response message: Illegal character in path at index 20: https://reqres.in/C:\demo,Thread Group 1-9,text,false,,1176,0,4,4,https://reqres.in/C:\demo,0,0,0
+1731508592730,3,JDBC Request,200,OK,Thread Group 1-9,text,true,,113,0,4,4,null,3,0,0
+1731508592734,0,HTTP Request,Non HTTP response code: java.net.URISyntaxException,Non HTTP response message: Illegal character in path at index 20: https://reqres.in/C:\demo,Thread Group 1-9,text,false,,1176,0,4,4,https://reqres.in/C:\demo,0,0,0
+1731508592734,2,JDBC Request,200,OK,Thread Group 1-9,text,true,,113,0,4,4,null,2,0,0
+1731508592737,0,HTTP Request,Non HTTP response code: java.net.URISyntaxException,Non HTTP response message: Illegal character in path at index 20: https://reqres.in/C:\demo,Thread Group 1-9,text,false,,1176,0,4,4,https://reqres.in/C:\demo,0,0,0
+1731508592737,2,JDBC Request,200,OK,Thread Group 1-9,text,true,,113,0,4,4,null,2,0,0
+1731508592740,0,HTTP Request,Non HTTP response code: java.net.URISyntaxException,Non HTTP response message: Illegal character in path at index 20: https://reqres.in/C:\demo,Thread Group 1-9,text,false,,1176,0,4,4,https://reqres.in/C:\demo,0,0,0
+1731508592720,108,JDBC Request,200,OK,Thread Group 1-10,text,true,,113,0,3,3,null,108,0,1
+1731508592828,0,HTTP Request,Non HTTP response code: java.net.URISyntaxException,Non HTTP response message: Illegal character in path at index 20: https://reqres.in/C:\demo,Thread Group 1-10,text,false,,1176,0,3,3,https://reqres.in/C:\demo,0,0,0
+1731508592828,4,JDBC Request,200,OK,Thread Group 1-10,text,true,,113,0,3,3,null,4,0,0
+1731508592832,0,HTTP Request,Non HTTP response code: java.net.URISyntaxException,Non HTTP response message: Illegal character in path at index 20: https://reqres.in/C:\demo,Thread Group 1-10,text,false,,1176,0,3,3,https://reqres.in/C:\demo,0,0,0
+1731508592832,4,JDBC Request,200,OK,Thread Group 1-10,text,true,,113,0,3,3,null,4,0,0
+1731508592836,0,HTTP Request,Non HTTP response code: java.net.URISyntaxException,Non HTTP response message: Illegal character in path at index 20: https://reqres.in/C:\demo,Thread Group 1-10,text,false,,1176,0,3,3,https://reqres.in/C:\demo,0,0,0
+1731508592837,3,JDBC Request,200,OK,Thread Group 1-10,text,true,,113,0,3,3,null,3,0,0
+1731508592840,0,HTTP Request,Non HTTP response code: java.net.URISyntaxException,Non HTTP response message: Illegal character in path at index 20: https://reqres.in/C:\demo,Thread Group 1-10,text,false,,1176,0,3,3,https://reqres.in/C:\demo,0,0,0
+1731508592840,3,JDBC Request,200,OK,Thread Group 1-10,text,true,,113,0,3,3,null,3,0,0
+1731508592844,0,HTTP Request,Non HTTP response code: java.net.URISyntaxException,Non HTTP response message: Illegal character in path at index 20: https://reqres.in/C:\demo,Thread Group 1-10,text,false,,1176,0,3,3,https://reqres.in/C:\demo,0,0,0
+1731508592844,3,JDBC Request,200,OK,Thread Group 1-10,text,true,,113,0,3,3,null,3,0,0
+1731508592847,0,HTTP Request,Non HTTP response code: java.net.URISyntaxException,Non HTTP response message: Illegal character in path at index 20: https://reqres.in/C:\demo,Thread Group 1-10,text,false,,1176,0,3,3,https://reqres.in/C:\demo,0,0,0
+1731508592847,3,JDBC Request,200,OK,Thread Group 1-10,text,true,,113,0,3,3,null,3,0,0
+1731508592850,0,HTTP Request,Non HTTP response code: java.net.URISyntaxException,Non HTTP response message: Illegal character in path at index 20: https://reqres.in/C:\demo,Thread Group 1-10,text,false,,1176,0,3,3,https://reqres.in/C:\demo,0,0,0
+1731508592850,3,JDBC Request,200,OK,Thread Group 1-10,text,true,,113,0,3,3,null,3,0,0
+1731508592853,0,HTTP Request,Non HTTP response code: java.net.URISyntaxException,Non HTTP response message: Illegal character in path at index 20: https://reqres.in/C:\demo,Thread Group 1-10,text,false,,1176,0,3,3,https://reqres.in/C:\demo,0,0,0
+1731508592715,222,JDBC Request,200,OK,Thread Group 1-7,text,true,,113,0,2,2,null,222,0,0
+1731508592721,216,JDBC Request,200,OK,Thread Group 1-6,text,true,,113,0,2,2,null,216,0,0
+1731508592937,0,HTTP Request,Non HTTP response code: java.net.URISyntaxException,Non HTTP response message: Illegal character in path at index 20: https://reqres.in/C:\demo,Thread Group 1-7,text,false,,1176,0,2,2,https://reqres.in/C:\demo,0,0,0
+1731508592937,0,HTTP Request,Non HTTP response code: java.net.URISyntaxException,Non HTTP response message: Illegal character in path at index 20: https://reqres.in/C:\demo,Thread Group 1-6,text,false,,1176,0,2,2,https://reqres.in/C:\demo,0,0,0
+1731508592938,4,JDBC Request,200,OK,Thread Group 1-6,text,true,,113,0,2,2,null,4,0,0
+1731508592942,0,HTTP Request,Non HTTP response code: java.net.URISyntaxException,Non HTTP response message: Illegal character in path at index 20: https://reqres.in/C:\demo,Thread Group 1-6,text,false,,1176,0,2,2,https://reqres.in/C:\demo,0,0,0
+1731508592942,4,JDBC Request,200,OK,Thread Group 1-6,text,true,,113,0,2,2,null,4,0,0
+1731508592946,0,HTTP Request,Non HTTP response code: java.net.URISyntaxException,Non HTTP response message: Illegal character in path at index 20: https://reqres.in/C:\demo,Thread Group 1-6,text,false,,1176,0,2,2,https://reqres.in/C:\demo,0,0,0
+1731508592947,3,JDBC Request,200,OK,Thread Group 1-6,text,true,,113,0,2,2,null,3,0,0
+1731508592950,0,HTTP Request,Non HTTP response code: java.net.URISyntaxException,Non HTTP response message: Illegal character in path at index 20: https://reqres.in/C:\demo,Thread Group 1-6,text,false,,1176,0,2,2,https://reqres.in/C:\demo,0,0,0
+1731508592951,3,JDBC Request,200,OK,Thread Group 1-6,text,true,,113,0,2,2,null,3,0,0
+1731508592954,0,HTTP Request,Non HTTP response code: java.net.URISyntaxException,Non HTTP response message: Illegal character in path at index 20: https://reqres.in/C:\demo,Thread Group 1-6,text,false,,1176,0,2,2,https://reqres.in/C:\demo,0,0,0
+1731508592954,4,JDBC Request,200,OK,Thread Group 1-6,text,true,,113,0,2,2,null,4,0,0
+1731508592958,0,HTTP Request,Non HTTP response code: java.net.URISyntaxException,Non HTTP response message: Illegal character in path at index 20: https://reqres.in/C:\demo,Thread Group 1-6,text,false,,1176,0,2,2,https://reqres.in/C:\demo,0,0,0
+1731508592958,3,JDBC Request,200,OK,Thread Group 1-6,text,true,,113,0,2,2,null,3,0,0
+1731508592961,0,HTTP Request,Non HTTP response code: java.net.URISyntaxException,Non HTTP response message: Illegal character in path at index 20: https://reqres.in/C:\demo,Thread Group 1-6,text,false,,1176,0,2,2,https://reqres.in/C:\demo,0,0,0
+1731508592961,3,JDBC Request,200,OK,Thread Group 1-6,text,true,,113,0,2,2,null,3,0,0
+1731508592964,0,HTTP Request,Non HTTP response code: java.net.URISyntaxException,Non HTTP response message: Illegal character in path at index 20: https://reqres.in/C:\demo,Thread Group 1-6,text,false,,1176,0,2,2,https://reqres.in/C:\demo,0,0,0
+1731508592938,108,JDBC Request,200,OK,Thread Group 1-7,text,true,,113,0,1,1,null,108,0,0
+1731508593046,0,HTTP Request,Non HTTP response code: java.net.URISyntaxException,Non HTTP response message: Illegal character in path at index 20: https://reqres.in/C:\demo,Thread Group 1-7,text,false,,1176,0,1,1,https://reqres.in/C:\demo,0,0,0
+1731508593046,3,JDBC Request,200,OK,Thread Group 1-7,text,true,,113,0,1,1,null,3,0,0
+1731508593050,0,HTTP Request,Non HTTP response code: java.net.URISyntaxException,Non HTTP response message: Illegal character in path at index 20: https://reqres.in/C:\demo,Thread Group 1-7,text,false,,1176,0,1,1,https://reqres.in/C:\demo,0,0,0
+1731508593050,3,JDBC Request,200,OK,Thread Group 1-7,text,true,,113,0,1,1,null,3,0,0
+1731508593053,0,HTTP Request,Non HTTP response code: java.net.URISyntaxException,Non HTTP response message: Illegal character in path at index 20: https://reqres.in/C:\demo,Thread Group 1-7,text,false,,1176,0,1,1,https://reqres.in/C:\demo,0,0,0
+1731508593053,3,JDBC Request,200,OK,Thread Group 1-7,text,true,,113,0,1,1,null,3,0,0
+1731508593056,0,HTTP Request,Non HTTP response code: java.net.URISyntaxException,Non HTTP response message: Illegal character in path at index 20: https://reqres.in/C:\demo,Thread Group 1-7,text,false,,1176,0,1,1,https://reqres.in/C:\demo,0,0,0
